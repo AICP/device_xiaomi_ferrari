@@ -1,2 +1,10 @@
 # Hardware revision
 ro.product.model.platform=1
+
+# Hardware Info
+ro.device.chipset=Qualcomm MM8939 Snapdragon 615
+ro.device.cpu=Octa-core (4x1.7 GHz Cortex-A53 & 4x1.0 GHz Cortex-A53)
+ro.device.gpu=Qualcomm Adreno 405
+ro.device.rear_cam=13 MP
+ro.device.front_cam=5 MP
+ro.device.screen_res=1920x1080, 5.0"
